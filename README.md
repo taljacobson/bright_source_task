@@ -17,7 +17,7 @@
 - [ ] render item based off website address path (site.com/:id) `react-router` 
 - [ ] Connect Input Fields to form component `formik`
 - [ ] code styling and linting
-- [ ] github deploy action
+- [x] github deploy action
 
 ![refrence](src/assets/images/result.png)
 ![app](src/assets/images/bright_source_demo.png)
